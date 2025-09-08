@@ -21,8 +21,10 @@ Position
 Left Club & League
 Joined Club & League
 Prepares a CSV/Excel file for easy import into Tableau or other BI tools.
-🔗 Tableau Dashboards: https://public.tableau.com/views/PremierLeague_Transfers/EPLTRANSFERS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/PremierLeague_SummerTransfers2526ExpendituresForwards-Defenders/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/PremierLeague_SummerTransfers2526Top10TransfersOutsideTheEPLDefenders-Forwards/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/PremierLeague_SummerTransfers2526Top10TransfersDefense-Midfield/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/PremierLeague_SummerTransfers2526Midfielders/Dashboard5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Tableau Dashboards
+
+🔗 Dashboard 1: Premier League Transfers
+🔗 Dashboard 2: Expenditures (Forwards & Defenders)
+🔗 Dashboard 3: Top 10 Transfers Outside EPL
+🔗 Dashboard 4: Top 10 Transfers (Defense & Midfield)
+🔗 Dashboard 5: Midfielders Transfers
