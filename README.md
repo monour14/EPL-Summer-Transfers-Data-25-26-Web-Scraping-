@@ -21,14 +21,3 @@ Position
 Left Club & League
 Joined Club & League
 Prepares a CSV/Excel file for easy import into Tableau or other BI tools.
-Tableau Dashboards
-
-🔗 Dashboard 1: Premier League Transfers
-
-🔗 Dashboard 2: Expenditures (Forwards & Defenders)
-
-🔗 Dashboard 3: Top 10 Transfers Outside EPL
-
-🔗 Dashboard 4: Top 10 Transfers (Defense & Midfield)
-
-🔗 Dashboard 5: Midfielders Transfers
